@@ -71,6 +71,7 @@ html, body{
     }
     .links{
         color: rgb(200, 201, 180);
+        text-decoration:none;
     }
     header img{
     border-radius: 175px;
