@@ -45,17 +45,30 @@ html, body{
         max-width: 90%;
         border: 3px solid #8C52C2;
     }
-    .friends{
-        background-color: #24011f;
-        padding: 25px;
-        text-align: center;
-        font-size: 20px;
-        color: rgb(208, 158, 255);
-        text-align: left;
-        border-radius: 30px;
-        width: 900px;
-        max-width: 90%;
-        border: 3px solid #8C52C2;
+    .friends {
+    width: 900px;
+    max-width: 80%;
+    background: #000000;
+    margin: auto;
+    overflow: auto;
+    justify-content: space-between;
+    display: flex;
+    padding: 40px;
+    border-radius: 90px;
+    text-align: center;
+    }
+    .friends img {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    padding: 2px;
+    border-radius: 150px;
+    border: 3px solid #8C52C2;
+    background-color: #000000;
+    overflow: auto;
+    justify-content: space-between;
+    display: flex;
+    box-shadow: 4px 4px #8C52C2;
     }
     .webfriends{
         background-color: #24011f;
