@@ -82,16 +82,16 @@ html, body{
         max-width: 90%;
         border: 3px solid #8C52C2;
     }
+    .links{
+        color: rgb(200, 201, 180);
+        text-decoration:none;
+    }
     .gifs{
         border-radius: 50px;
         height: 250px;
         width: 1000px;
         max-width: 90%;
         margin: 25px;
-    }
-    .links{
-        color: rgb(200, 201, 180);
-        text-decoration:none;
     }
     header img{
     border-radius: 175px;
